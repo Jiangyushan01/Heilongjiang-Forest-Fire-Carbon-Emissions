@@ -30,7 +30,7 @@ Methodological_Workflow/
 ├── 01_Burned_Area_Fusion.md
 ├── 02_Spatial_Autocorrelation.md
 └── 03_OLS_GWR_GTWR_Workflow.md
-
+```
 
 ## Code Description
 
