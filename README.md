@@ -31,6 +31,7 @@ Methodological_Workflow/
 ├── 02_Spatial_Autocorrelation.md
 └── 03_OLS_GWR_GTWR_Workflow.md
 
+
 ## Code Description
 
 | Script | Description |
@@ -40,6 +41,7 @@ Methodological_Workflow/
 | `CO2_emission_calculation.py` | Estimates forest fire CO₂ emissions in Heilongjiang Province, China, during 2001–2022. |
 | `CO_emission_calculation.py` | Estimates forest fire CO emissions in Heilongjiang Province, China, during 2001–2022. |
 | `CH4_emission_calculation.py` | Estimates forest fire CH₄ emissions in Heilongjiang Province, China, during 2001–2022. |
+
 
 ## Methodological Workflow
 
